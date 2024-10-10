@@ -31,10 +31,7 @@ Zero-knowledge poker (zk-poker) allows players to participate in a poker game wh
    git clone https://github.com/your-username/zk-poker.git
    cd zk-poker
    ```
-
-2. Follow the instructions in the [mental-poker](https://github.com/geometryxyz/mental-poker) repository for setup and dependencies.
-
-3. Build and run the project:
+2. Build and run the project:
    ```bash
    cargo build
    cargo run
